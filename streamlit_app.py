@@ -1,7 +1,7 @@
 
 import streamlit
 
-streamlit.title('Jay Ganesh Diner')
+streamlit.title('Cali famous Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Orange and Rocket Smoothie')
 streamlit.text('Acai Bowl')
